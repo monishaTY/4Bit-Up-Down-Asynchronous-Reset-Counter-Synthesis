@@ -65,11 +65,16 @@ used.
 
 #### Synthesis RTL Schematic :
 
+![WhatsApp Image 2024-11-22 at 12 03 15_db6359ae](https://github.com/user-attachments/assets/ddb05758-9f76-41ed-8c19-e1ecc8ba7753)
+
 #### Area report:
+![WhatsApp Image 2024-11-22 at 12 04 23_6650bfb9](https://github.com/user-attachments/assets/33ee2151-5957-4442-9554-ac90865b720f)
 
 #### Power Report:
+![WhatsApp Image 2024-11-22 at 12 05 27_80a98a79](https://github.com/user-attachments/assets/3b55ae1d-5932-49bf-957b-131169500567)
 
 #### Timing Report: 
+![WhatsApp Image 2024-11-22 at 12 06 23_66d7d42b](https://github.com/user-attachments/assets/1e1ba8c8-c25d-4cb1-9b65-cbfba073abe3)
 
 #### Result: 
 
